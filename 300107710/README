@@ -1,0 +1,25 @@
+1. What does HTML stand for ?
+  Hyperlinks and Text Markup Language
+  Home Tool Markup Language
+  Hyper Text Markup Language
+  Home Text Markup Language
+2. What is the syntax to write the HTML tags ?
+  (HTML)
+  <%HTML%>
+  "HTML"
+  <HTML>
+3. What is the correct HTML tag for inserting an horizontal line ?
+  <hr>
+  <line>
+  <horizontal line>
+  <tr>
+4. How do you define font style of the text ?
+  <text style="Arial">
+  <font style="Arial"></font>
+  <text=Arial>
+  <style="Arial">
+5. Tags and text that do not show directly on the page are placed where ?
+  Head
+  Body
+  Tables
+  Title
